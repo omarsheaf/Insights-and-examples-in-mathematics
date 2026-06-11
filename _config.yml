@@ -1,0 +1,4 @@
+title: Omar's Math Notes
+description: Notes on topology, algebra, analysis, and physics.
+markdown: kramdown
+permalink: /:title/
