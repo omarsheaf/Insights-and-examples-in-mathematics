@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title | default: site.title }}</title>
-  <link rel="stylesheet" href="/assets/style.css">
+
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
   <script>
     window.MathJax = {
@@ -19,8 +20,8 @@
 
 <body>
   <nav>
-    <a href="/">Home</a>
-    <a href="/about/">About</a>
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <a href="{{ '/about/' | relative_url }}">About</a>
   </nav>
 
   <main>

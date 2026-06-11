@@ -1,4 +1,7 @@
-title: Omar's Math Notes
-description: Notes on topology, algebra, analysis, and physics.
+title: Insights and Examples in Mathematics
+description: Notes, examples, and intuition in mathematics.
 markdown: kramdown
 permalink: /:title/
+
+baseurl: "/Insights-and-examples-in-mathematics"
+url: "https://omarsheaf.github.io"
