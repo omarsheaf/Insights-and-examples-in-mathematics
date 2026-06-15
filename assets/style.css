@@ -86,3 +86,11 @@ img {
   font-size: 0.9rem;
   font-style: italic;
 }
+
+.diagram {
+  display: block;
+  width: 100%;
+  max-width: 650px;
+  height: auto;
+  margin: 24px auto;
+}
