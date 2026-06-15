@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 # About
+I'm Omar, a math student. My mathematical interests are:
+idk yet, but classical mechanics is nice 
 
-I am an undergraduate interested in mathematics and theoretical physics.
 
-This site contains my notes on topology, algebra, analysis, and physics.
+My interests are math, physics, philosophy, rock-climbing, and volleyball.
+
