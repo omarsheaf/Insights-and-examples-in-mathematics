@@ -1,7 +1,6 @@
-title: Insights and Examples in Mathematics
-description: Notes, examples, and intuition in mathematics.
+title: fun math stuff
+description: I yap about math thoughts that make sense to me 
 markdown: kramdown
 permalink: /:title/
-
-baseurl: "/Insights-and-examples-in-mathematics"
+baseurl: ""
 url: "https://omarsheaf.github.io"
